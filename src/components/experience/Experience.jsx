@@ -14,8 +14,7 @@ import { SiAdobeaftereffects } from "react-icons/si";
 const Experience = () => {
   return (
     <section id='experience'>
-      <h5>Habilidades</h5>
-      <h2>Mi Experiencia  </h2>
+      <h2>Mi Experiencia</h2>
 
       <div className='container experience__container'>
         <div className="experience__front">

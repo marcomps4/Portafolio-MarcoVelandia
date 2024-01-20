@@ -15,6 +15,10 @@ const Footer = () => {
         <li><a href='#testimonials'>Testimonios</a></li>
         <li><a href='#contact'>Contacto</a></li>
       </ul>
+     
+      <div className="footer__copyright">
+        <small>&copy; Marco Velandia Todos los derechos reservados 2024 </small>
+      </div>
     </footer>
   )
 }
