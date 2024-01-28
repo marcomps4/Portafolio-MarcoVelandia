@@ -38,7 +38,10 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque repudiandae, ratione impedit tempora voluptatem voluptatibus eaque velit labore perferendis facilis eligendi. Sed cupiditate doloribus suscipit nostrum aliquid, ratione culpa neque?
+          Productor Multimedia, con experiencia en creación de páginas web y generar contenidos e-lerarning para instituciones universitarias. Conocimientos sólidos en html5, css3, Bootstrap, habilidades en Javascript, React, Phothoshop, After Effects y premier pro.
+          </p>
+          <p>
+          Gran sentido de responsabilidad, comprometido, con excelentes relaciones interpersonales, fácil adaptación para trabajar en equipo, capacidad creativa e innovadora.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Hablemos</a>
