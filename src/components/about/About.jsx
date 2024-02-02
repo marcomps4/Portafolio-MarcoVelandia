@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import ME from '../../assets/me-about.jpg';
+import ME from '../../assets/me-about-1.jpg';
 import { LiaAwardSolid } from "react-icons/lia";
 import { TbUsersPlus } from "react-icons/tb";
 import { VscFolderActive } from "react-icons/vsc";
