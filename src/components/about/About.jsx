@@ -38,7 +38,7 @@ const About = () => {
             </article>
           </div>
           <p>
-          Productor Multimedia, con experiencia en creación de páginas web y generar contenidos e-lerarning para instituciones universitarias. Conocimientos sólidos en html5, css3, Bootstrap, habilidades en Javascript, React, Phothoshop, After Effects y premier pro.
+          Productor Multimedia, con experiencia en creación de páginas web y generar contenidos e-learning para instituciones universitarias. Conocimientos sólidos en html5, css3, Bootstrap, habilidades en Javascript, React, Phothoshop, After Effects y premier pro.
           </p>
           <p>
           Gran sentido de responsabilidad, comprometido, con excelentes relaciones interpersonales, fácil adaptación para trabajar en equipo, capacidad creativa e innovadora.
