@@ -73,15 +73,15 @@ const Services = () => {
             <ul className='service__list'>
               <li>
                 <FaCheck className='service__list-icon'/>
-                <p>Edición de videos y audio para material educativo</p>
+                <p>Edición de videos y audio para material educativo.</p>
               </li>
               <li>
                 <FaCheck className='service__list-icon'/>
-                <p>Manejo de plataforma Lms Moodle</p>
+                <p>Manejo de plataforma Lms Moodle.</p>
               </li>
               <li>
                 <FaCheck className='service__list-icon'/>
-                <p>Creación de contenido interactivo con H5p.</p>
+                <p>Creación de contenido interactivo con H5P.</p>
               </li>
               <li>
                 <FaCheck className='service__list-icon'/>
