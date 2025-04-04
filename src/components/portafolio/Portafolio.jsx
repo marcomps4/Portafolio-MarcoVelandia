@@ -20,6 +20,27 @@ const Portafolio = () => {
       github: 'https://github.com/marcomps4/Activate.git',
       demo: 'https://activate-theta.vercel.app/'
     },
+    {
+      id: 3,
+      image: Img2,
+      title: 'Replica sitio Skandia',
+      github: 'https://github.com/marcomps4/skandia.git',
+      demo: 'https://skandia.vercel.app/'
+    },
+    {
+      id: 4,
+      image: Img2,
+      title: 'Sitio web Activate 2024',
+      github: 'https://github.com/marcomps4/activate2024.git',
+      demo: 'https://activate2024.vercel.app/'
+    },
+    {
+      id: 4,
+      image: Img2,
+      title: 'Felixfelicis',
+      github: 'https://github.com/marcomps4/felixfelicis.git',
+      demo: 'https://felixfelicis.vercel.app/'
+    },
   ]
   return (
     <section id='portafolio'>
