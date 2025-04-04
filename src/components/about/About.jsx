@@ -22,7 +22,7 @@ const About = () => {
             <article className='about__card'>
               <LiaAwardSolid className='about__icon'/>
               <h5>Experiencia</h5>
-              <small><strong>1 Año</strong></small>
+              <small><strong>4 Años</strong></small>
             </article>
 
             <article className='about__card'>
