@@ -1,7 +1,10 @@
 import React from 'react';
 import './portafolio.css';
 import Img1 from '../../assets/portfolio1.jpg';
-import Img2 from '../../assets/portfolio2.jpg'
+import Img2 from '../../assets/portfolio2.jpg';
+import Img3 from '../../assets/portfolio3.jpg';
+import Img4 from '../../assets/portfolio4.jpg';
+import Img5 from '../../assets/portfolio5.jpg';
 
 const Portafolio = () => {
 
@@ -22,21 +25,21 @@ const Portafolio = () => {
     },
     {
       id: 3,
-      image: Img2,
+      image: Img3,
       title: 'Replica sitio Skandia',
       github: 'https://github.com/marcomps4/skandia.git',
       demo: 'https://skandia.vercel.app/'
     },
     {
       id: 4,
-      image: Img2,
+      image: Img4,
       title: 'Sitio web Activate 2024',
       github: 'https://github.com/marcomps4/activate2024.git',
       demo: 'https://activate2024.vercel.app/'
     },
     {
       id: 4,
-      image: Img2,
+      image: Img5,
       title: 'Felixfelicis',
       github: 'https://github.com/marcomps4/felixfelicis.git',
       demo: 'https://felixfelicis.vercel.app/'
