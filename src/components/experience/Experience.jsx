@@ -33,7 +33,7 @@ const Experience = () => {
               <IoLogoCss3 className="experience__details-icon"/>
               <div>
               <h4>CSS</h4>
-              <small className='text-light'>Medio</small>
+              <small className='text-light'>Alto</small>
               </div>
             </article>
 
@@ -41,7 +41,7 @@ const Experience = () => {
               <SiJavascript className="experience__details-icon"/>
               <div>
               <h4>JavaScript</h4>
-              <small className='text-light'>Bajo</small>
+              <small className='text-light'>Medio</small>
               </div>
             </article>
 
